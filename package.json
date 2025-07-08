@@ -1,6 +1,6 @@
 {
   "name": "node-k8s-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js app on Kubernetes",
   "main": "server.js",
   "scripts": {
